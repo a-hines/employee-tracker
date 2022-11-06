@@ -1,6 +1,6 @@
 # Employee Tracker
 
-Screencastify:
+Screencastify: will be added asap - panic submitting assignments at present...
 
 The acceptance critria for this project were as follows:
 GIVEN a command-line application that accepts user input
